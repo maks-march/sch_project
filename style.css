@@ -1,4 +1,4 @@
-h1 {
-    color: red;
-    font-size: 125px;
+.header {
+    font-size: 100px;
+    transition: 0.4s ease-in-out;
 }
