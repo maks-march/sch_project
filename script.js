@@ -43,5 +43,5 @@ function setColors() {
     }
     function setcolor6(i){
         document.querySelector('.rainbow').innerHTML = ``;
-        document.querySelector('.rainbow').innerHTML = `<h1 class="header" style="color: rgb(255,${i},0)">статья о том как я писал эту статью</h1>`;
+        document.querySelector('.rainbow').innerHTML = `<h1 class="header" style="color: rgb(255,${i},0)"> статья о том как я писал эту статью</h1>`;
     }
