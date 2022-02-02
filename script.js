@@ -1,4 +1,5 @@
-const color_string = document.querySelector('strings');
+const color_string = document.querySelector('rainbow');
+console.log(color_string);
 setColors(color_string);
 // setInterval(setColors,1000);
 
